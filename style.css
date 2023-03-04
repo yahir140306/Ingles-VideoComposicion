@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h1 {
+    font-size: 50px;
+}
+
+video {
+    width: 700px;
+
+}
+
+footer , h6 , li {
+    font-size: 12px;
+}
+
+img {
+    width: 100px;
+    margin-right: 900px;
+}
